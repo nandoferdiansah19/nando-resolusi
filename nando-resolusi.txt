@@ -1,4 +1,3 @@
 NANDO RESOLUSI
 - Belajar React
 - Belajar Next
-- Menyelesaikan skrisi
